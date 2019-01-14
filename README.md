@@ -1,5 +1,5 @@
 # CPP_Coursera
-Practical assignments from C++ specialization on C++ development by Moscow Institute of Physics and Technology & Yandex
+Practical assignments from Coursera Specialization on C++ development by Moscow Institute of Physics and Technology & Yandex
 
 
 ## White Belt
